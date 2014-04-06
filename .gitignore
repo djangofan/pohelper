@@ -9,3 +9,4 @@ POHelper/RunFolder
 **/target/
 **/.idea/
 **/.svn/
+/target
